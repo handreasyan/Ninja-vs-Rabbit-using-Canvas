@@ -1,6 +1,5 @@
 
 		const canvas = document.querySelector("canvas");
-		// et vercvacin kcumenq getContext_y vor ogtagrocem ira hamar sarqvac patrasti functionnery
 		const context = canvas.getContext("2d");
 
 		//  background
